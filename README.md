@@ -6,14 +6,6 @@ Everything from basics, templates to documentation
   - Numpy 
   - Pandas
 
-#### Second Template contains
-  - Data Structures 
-    - Stacks 
-    - Queues
-    - Linked List
-    - Graphs
-    - Tress
-
 
 #### Second Template contains
   - Preprocessing 
