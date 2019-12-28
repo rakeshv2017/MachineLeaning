@@ -1,5 +1,5 @@
-# MachineLeaning
-Everything from templates to documentation
+# Machine Learning
+Everything from basics, templates to documentation
 
 #### First Template contains
   - Basic Python 
