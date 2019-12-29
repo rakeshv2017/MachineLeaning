@@ -6,6 +6,8 @@ Everything from basics, templates to documentation
   - Basic Python 
   - Numpy 
   - Pandas
+  - Matplotlib
+  - Seaborn
 
 
 #### Second Template contains
