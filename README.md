@@ -15,4 +15,10 @@ Everything from basics, templates to documentation
   - Linear Regression
   - Logistic Regression
   - TensorFlow + TF estimators
- 
+
+
+#### Third Template contains
+  - Natural Language Processing (NLP)
+    - Vectorization
+    - Stemming
+    - lemmatization
