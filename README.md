@@ -2,9 +2,12 @@
 Everything from basics, templates to documentation
 
 #### First Template contains
+  - Markdown basics
   - Basic Python 
   - Numpy 
   - Pandas
+  - Matplotlib
+  - Seaborn
 
 
 #### Second Template contains
