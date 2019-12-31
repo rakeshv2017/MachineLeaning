@@ -2,8 +2,9 @@
 Everything from basics, templates to documentation
 
 #### First Template contains
-  - Markdown basics
-  - Basic Python 
+  - Markdown basics (Pending)
+  - Basic Python
+  - Regular Expression
   - Numpy 
   - Pandas
   - Matplotlib
