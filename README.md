@@ -20,6 +20,7 @@ Everything from basics, templates to documentation
 
 #### Third Template contains
   - Natural Language Processing (NLP)
+    - NLP Basics
     - Vectorization
     - Stemming
     - lemmatization
